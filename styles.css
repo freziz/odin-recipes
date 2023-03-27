@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+
+ul{
+    text-align: center;
+    background-color: aqua;
+    list-style-position:inside;
+}
+
+html {
+    background-color: bisque;
+}
